@@ -1,0 +1,264 @@
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.exe
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.deps.json
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.runtimeconfig.json
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.runtimeconfig.dev.json
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.pdb
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.Views.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.Views.pdb
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sedat\source\repos\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.AssemblyInfoInputs.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.AssemblyInfo.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorAssemblyInfo.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorAssemblyInfo.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\staticwebassets\ProjeCore.StaticWebAssets.Manifest.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\staticwebassets\ProjeCore.StaticWebAssets.xml
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjeCore.styles.css
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.TagHelpers.input.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.TagHelpers.output.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorCoreGenerate.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorTargetAssemblyInfo.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorTargetAssemblyInfo.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.Views.pdb
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.csproj.CopyComplete
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.dll
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.pdb
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.genruntimeconfig.cache
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\Index.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TestLayout.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\YeniBirim.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\BirimGetir.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Personelim\Index.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Personelim\YeniPersonel.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\DetayGetir.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\sedat\source\repos\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.exe
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.deps.json
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.runtimeconfig.json
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.runtimeconfig.dev.json
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.Views.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.Views.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.csprojAssemblyReference.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.AssemblyInfoInputs.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.AssemblyInfo.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.csproj.CoreCompileInputs.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorAssemblyInfo.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorAssemblyInfo.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\staticwebassets\ProjeCore.StaticWebAssets.Manifest.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\staticwebassets\ProjeCore.StaticWebAssets.xml
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjeCore.styles.css
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.TagHelpers.input.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.TagHelpers.output.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorCoreGenerate.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\BirimGetir.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\DetayGetir.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\Index.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\YeniBirim.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Personelim\Index.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Personelim\YeniPersonel.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TestLayout.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorTargetAssemblyInfo.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorTargetAssemblyInfo.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.Views.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.csproj.CopyComplete
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\personel projesi orta seviye baya kod var\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.genruntimeconfig.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.exe
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.deps.json
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.runtimeconfig.json
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.runtimeconfig.dev.json
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.pdb
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.Views.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\ProjeCore.Views.pdb
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.csprojAssemblyReference.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.AssemblyInfoInputs.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.AssemblyInfo.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.csproj.CoreCompileInputs.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorAssemblyInfo.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorAssemblyInfo.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\staticwebassets\ProjeCore.StaticWebAssets.Manifest.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\staticwebassets\ProjeCore.StaticWebAssets.xml
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\ProjeCore.styles.css
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.TagHelpers.input.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.TagHelpers.output.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorCoreGenerate.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\BirimGetir.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\DetayGetir.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\Index.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\YeniBirim.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Personelim\Index.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Personelim\YeniPersonel.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TestLayout.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorTargetAssemblyInfo.cache
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.RazorTargetAssemblyInfo.cs
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.Views.pdb
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.csproj.CopyComplete
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.dll
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.pdb
+C:\Users\sedat\Desktop\WEBProjects-main\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.genruntimeconfig.cache

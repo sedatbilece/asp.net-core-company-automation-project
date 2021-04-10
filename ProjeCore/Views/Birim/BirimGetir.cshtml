@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    Layout = "_TestLayout";
+}
+@model ProjeCore.Models.Birim;
+
+
+
+@using (Html.BeginForm("BirimGüncelle", "Birim", FormMethod.Post))
+{
+
+<form method="post" class="form-group">
+
+
+    <b>departman İD:</b>
+
+    @Html.TextBoxFor(x => x.BirimId, new { @class = "form-control" })
+
+
+
+    <br />
+    <b>departman adı: </b>
+    @Html.TextBoxFor(x => x.BirimAd, new { @class = "form-control" })
+
+
+    <br />
+    <button class="btn btn-warning">güncelle</button>
+
+</form>
+}

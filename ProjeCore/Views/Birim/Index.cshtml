@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = "_TestLayout";
+}
+
+
+@using ProjeCore.Models
+@model List<Birim>
+<br />
+<table class="table table-bordered table-active table-responsive-md">
+    <tr>
+        <th>ID</th>
+        <th>BIRIM</th>
+        <th>sil</th>
+        <th>güncelle</th>
+        <th>detaylar</th>
+    </tr>
+
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>  @x.BirimId </td>
+            <td>  @x.BirimAd </td>
+            <td>  <a class="btn btn-danger" href="/Birim/BirimSil/@x.BirimId" > sil </a> </td>
+            <td> <a class="btn btn-success" href="/Birim/BirimGetir/@x.BirimId"> güncelle </a> </td>
+            <td>  <a class="btn btn-warning" href="/Birim/DetayGetir/@x.BirimId">detaylar</a> </td>
+        </tr>
+    }
+
+</table>
+<a class="btn btn-primary" href="/Birim/YeniBirim/">yeni Birim ekle</a>

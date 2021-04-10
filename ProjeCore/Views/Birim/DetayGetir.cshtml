@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = "_TestLayout";
+}
+
+
+@using ProjeCore.Models
+@model List<Personel> 
+<div>
+    <h2> @ViewBag.baslik</h2>
+
+
+    <table class="table table-bordered table-active table-responsive-md">
+        <tr>
+            <th>ID</th>
+            <th>AD</th>
+            <th>SOYAD</th>
+            <th>SEHİR</th>
+            
+            
+        </tr>
+
+        @foreach (var x in Model)
+        {
+            <tr>
+                <td> @x.PersonelId </td>
+                <td> @x.Ad</td>
+                <td> @x.Soyad</td>
+                <td> @x.Sehir</td>
+
+
+            </tr>
+        }
+
+    </table>
+</div>

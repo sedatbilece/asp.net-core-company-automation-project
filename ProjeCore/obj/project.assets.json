@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sedat\\Desktop\\WEBProjects-main\\ProjeCore\\ProjeCore.csproj",
+      "projectUniqueName": "C:\\Users\\sedat\\Source\\Repos\\sedatbilece\\asp.net-core-company-automation-project\\ProjeCore\\ProjeCore.csproj",
       "projectName": "ProjeCore",
-      "projectPath": "C:\\Users\\sedat\\Desktop\\WEBProjects-main\\ProjeCore\\ProjeCore.csproj",
+      "projectPath": "C:\\Users\\sedat\\Source\\Repos\\sedatbilece\\asp.net-core-company-automation-project\\ProjeCore\\ProjeCore.csproj",
       "packagesPath": "C:\\Users\\sedat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sedat\\Desktop\\WEBProjects-main\\ProjeCore\\obj\\",
+      "outputPath": "C:\\Users\\sedat\\Source\\Repos\\sedatbilece\\asp.net-core-company-automation-project\\ProjeCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sedat\\AppData\\Roaming\\NuGet\\NuGet.Config",

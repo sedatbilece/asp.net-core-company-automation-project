@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RMWOZZQNfupC5t9zWP1jr7l9O6DmhdNN/5vOZWUGEQN6Yv/2gTQSCHDJX7d9tsbqZbw507KJW11vfC6alEQK+g==",
+  "dgSpecHash": "NCHDfriZg9Jt3Tid43wt4938Ku/4agofJvuoQ9/2HKiQ6BBUfzoB0lTH+NAmYoRj/H3YY654WIVeqRC99lsr2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sedat\\Desktop\\WEBProjects-main\\ProjeCore\\ProjeCore.csproj",
+  "projectFilePath": "C:\\Users\\sedat\\Source\\Repos\\sedatbilece\\asp.net-core-company-automation-project\\ProjeCore\\ProjeCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sedat\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sedat\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
